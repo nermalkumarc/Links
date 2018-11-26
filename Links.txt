@@ -9,3 +9,5 @@ WireFrame-login : https://wireframe.cc/8jNWod
 Wireframe-register : https://wireframe.cc/NEIJRm
 
 Wireframe-Explore : https://wireframe.cc/PgvOxe
+
+Wireframe-Profile : https://wireframe.cc/7bxt8y
