@@ -4,4 +4,6 @@ ReactJS : https://www.tutorialspoint.com/reactjs/reactjs_overview.htm
 
 SVG website : https://svgstudio.com/
 
-WireFrame : https://wireframe.cc/8jNWod
+WireFrame-login : https://wireframe.cc/8jNWod
+
+Wireframe-register : https://wireframe.cc/NEIJRm
