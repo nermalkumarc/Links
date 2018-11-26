@@ -7,3 +7,5 @@ SVG website : https://svgstudio.com/
 WireFrame-login : https://wireframe.cc/8jNWod
 
 Wireframe-register : https://wireframe.cc/NEIJRm
+
+Wireframe-Explore : https://wireframe.cc/PgvOxe
