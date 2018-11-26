@@ -1,3 +1,7 @@
-http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+JS 16 things to Master : http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
 
-https://www.tutorialspoint.com/reactjs/reactjs_overview.htm
+ReactJS : https://www.tutorialspoint.com/reactjs/reactjs_overview.htm
+
+SVG website : https://svgstudio.com/
+
+WireFrame : https://wireframe.cc/8jNWod
