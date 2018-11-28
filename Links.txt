@@ -13,3 +13,5 @@ Wireframe-Explore : https://wireframe.cc/PgvOxe
 Wireframe-Profile : https://wireframe.cc/7bxt8y
 
 webflow-animate : http://history-of-animation.webflow.io/
+
+JustinMind : https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/
