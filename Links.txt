@@ -15,3 +15,7 @@ Wireframe-Profile : https://wireframe.cc/7bxt8y
 webflow-animate : http://history-of-animation.webflow.io/
 
 JustinMind : https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/
+
+worlds first website: http://info.cern.ch/
+
+Angular-firebase: https://www.positronx.io/angular-7-firebase-5-crud-operations-with-reactive-forms/
