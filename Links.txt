@@ -27,3 +27,11 @@ Coursera(course-website): https://www.coursera.org/courses?query=illustration
 React-tutorial-website: https://www.djamware.com/post/5bc50ea680aca7466989441d/reactjs-firebase-tutorial-building-firestore-crud-web-application
 
 Api-key: 6c7c9dc81939ee44819b759d26a5cb32
+
+React-simple-project : https://www.davebennett.tech/react-login-with-google-firebase/
+
+React-example(ref)-proj : https://reactjs.org/community/examples.html
+
+Check this : https://shiftng.shiftelearning.com/built/5c36d9f365362e56a96123e2/app.html
+
+Youtube-react-DoToList : https://www.youtube.com/watch?v=-RtJroTMDf4
