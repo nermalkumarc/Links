@@ -35,3 +35,7 @@ React-example(ref)-proj : https://reactjs.org/community/examples.html
 Check this : https://shiftng.shiftelearning.com/built/5c36d9f365362e56a96123e2/app.html
 
 Youtube-react-DoToList : https://www.youtube.com/watch?v=-RtJroTMDf4
+
+Chat-room : https://spacedev.herokuapp.com/ 
+
+Responsiveness : https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/
