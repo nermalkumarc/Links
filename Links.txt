@@ -39,3 +39,5 @@ Youtube-react-DoToList : https://www.youtube.com/watch?v=-RtJroTMDf4
 Chat-room : https://spacedev.herokuapp.com/ 
 
 Responsiveness : https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/
+
+Tally software: http://www.mediafire.com/file/ib8rj0tbqnddl72/Tally+9.rar
