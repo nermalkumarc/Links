@@ -16,17 +16,17 @@ webflow-animate : http://history-of-animation.webflow.io/
 
 JustinMind : https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/
 
-worlds first website: http://info.cern.ch/
+worlds first website : http://info.cern.ch/
 
-Angular-firebase: https://www.positronx.io/angular-7-firebase-5-crud-operations-with-reactive-forms/
+Angular-firebase : https://www.positronx.io/angular-7-firebase-5-crud-operations-with-reactive-forms/
 
-Saran website: https://angular-5d46b.firebaseapp.com
+Saran website : https://angular-5d46b.firebaseapp.com
 
-Coursera(course-website): https://www.coursera.org/courses?query=illustration
+Coursera(course-website) : https://www.coursera.org/courses?query=illustration
 
-React-tutorial-website: https://www.djamware.com/post/5bc50ea680aca7466989441d/reactjs-firebase-tutorial-building-firestore-crud-web-application
+React-tutorial-website : https://www.djamware.com/post/5bc50ea680aca7466989441d/reactjs-firebase-tutorial-building-firestore-crud-web-application
 
-Api-key: 6c7c9dc81939ee44819b759d26a5cb32
+Api-key : 6c7c9dc81939ee44819b759d26a5cb32
 
 React-simple-project : https://www.davebennett.tech/react-login-with-google-firebase/
 
@@ -40,4 +40,12 @@ Chat-room : https://spacedev.herokuapp.com/
 
 Responsiveness : https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/
 
-Tally software: http://www.mediafire.com/file/ib8rj0tbqnddl72/Tally+9.rar
+Tally software : http://www.mediafire.com/file/ib8rj0tbqnddl72/Tally+9.rar
+
+BundlePhobia : https://bundlephobia.com/
+
+Figma : https://www.figma.com/
+
+Font flipper : https://fontflipper.com/upload
+
+Flare : https://www.2dimensions.com/about-flare
